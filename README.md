@@ -2,8 +2,9 @@
 
 Wiwa is a social media project with music streaming and ecommerce features. Built with Flutter and Firebase.
 
-# Screenshots
-https://play-lh.googleusercontent.com/EI3tAx2FovUWm3DVtft_8T95LkKfIEyhxUXie2dKuScvPvF86Wn-Z7WaPoCq1oElHg=w720-h310-rw
+## Screenshots
+![image](https://play-lh.googleusercontent.com/EI3tAx2FovUWm3DVtft_8T95LkKfIEyhxUXie2dKuScvPvF86Wn-Z7WaPoCq1oElHg=w720-h310-rw)
+
 
 ## Getting Started
 
