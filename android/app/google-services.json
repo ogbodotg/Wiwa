@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830840299705",
+    "firebase_url": "https://wiwa-734a8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wiwa-734a8",
+    "storage_bucket": "wiwa-734a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830840299705:android:58eb3aa74d27b0709fbb68",
+        "android_client_info": {
+          "package_name": "com.WiwaApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830840299705-53ohki6le5ge8o2rpialdjs63m58r65u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.WiwaApp",
+            "certificate_hash": "5348a62ae57164700176830563ebe9ca27166753"
+          }
+        },
+        {
+          "client_id": "830840299705-0vsph45j8qiqr5mvt6m83e3j9otmh9jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmhFK3Y8Fhca0EpB5t-oXRI8vqURC6JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830840299705-0vsph45j8qiqr5mvt6m83e3j9otmh9jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
